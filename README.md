@@ -1,0 +1,1 @@
+# password_manager_encrypted_qr_generator
