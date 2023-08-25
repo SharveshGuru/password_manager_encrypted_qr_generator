@@ -37,4 +37,5 @@ Follow the on-screen instructions to navigate through the program:
 4. Remove credentials.
 5. Export credentials as an encrypted QR code.
 6. Decrypt credentials from an encrypted QR code.
+
 Note: Keep your Fernet key (fernet_key.txt) and database credentials secure.
