@@ -1,6 +1,7 @@
 # Password Manager and an Encrypted QR Code Generator
 
 Project Title: Password Manager and an Encrypted QR Code Generator.
+
 Project Members: S Sharvesh Guru, Sheegan Sri G M, Vishwakanth P, Dharsan S.
 
 ## ABSTRACT:
